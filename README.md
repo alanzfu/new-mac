@@ -6,7 +6,7 @@ curl -s 'http://macapps.link/en/firefox-chrome-robomongo-atom-docker-iterm-spect
 
 
 2. Create bash profile aliases
-
+https://natelandau.com/my-mac-osx-bash_profile/
 
 
 
